@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1291f75d9b6f27649aa9d7039cef91bc, type: 3}
+  m_Name: Dialog3 4
+  m_EditorClassIdentifier: 
+  names: King Crimson
+  lines:
+  - "T\u1ED1t, lo\u1EA1i ng\u01B0\u1EDDi ngang t\xE0n nh\u01B0 ng\u01B0\u01A1i th\u1EADt
+    s\u1EF1 r\u1EA5t hi\u1EBFm, ta ngh\u0129 nhi\u1EC7m v\u1EE5 n\xE0y s\u1EBD h\u1EE3p
+    v\u1EDBi ng\u01B0\u01A1i"
+  - "C\xF3 th\u1EC3 ng\u01B0\u01A1i \u0111\xE3 bi\u1EBFt ho\u1EB7c kh\xF4ng, v\u01B0\u01A1ng
+    qu\u1ED1c Astrovila n\xE0y \u0111ang m\u1EA5t c\xE2n b\u1EB1ng gi\u1EDBi t\xEDnh
+    nghi\xEAm tr\u1ECDng"
+  - "Th\u1EBF n\xEAn b\u1ECDn ta m\u1EDBi ph\u1EA3i t\xECm c\xE1ch t\u1EA1o c\u1ED5ng
+    kh\xF4ng gian ki\u1EBFm g\xE1i v\u1EC1 \u0111\xE2y"
+  - "Nh\u01B0ng m\xE0 ng\u01B0\u01A1i \u0111\xE3 ph\xE1 t\u1EA5t c\u1EA3"
+  - "Th\u1EBF n\xEAn \u0111\u1EC3 \u0111\u1EC1n t\u1ED9i, m\u1ED9t m\xECnh ng\u01B0\u01A1i
+    s\u1EBD ph\u1EA3i t\xECm c\xE1ch \u0111\u1EC3 mang c\xE1c em g\xE1i alime v\u1EC1
+    \u0111\xE2y"
+  - "N\u1EBFu ng\u01B0\u01A1i l\xE0m t\u1ED1t, t\u1ED9i l\u1ED7i c\u1EE7a ng\u01B0\u01A1i
+    coi nh\u01B0 \u0111\u01B0\u1EE3c x\xF3a"
+  - "Th\u1EBF n\xE0o c\xF3 ch\u1EA5p nh\u1EADn kh\xF4ng ?"
+  img: {fileID: 21300000, guid: 3867807963d86b642aa271c4daf212c7, type: 3}
